@@ -1,4 +1,4 @@
-<img src="http://github.com/impulzia/kooltuo/raw/master/artwork/kooltou_logo.png" width="150px" height="150px" />
+<img src="https://github.com/impulzia/kooltuo/raw/master/artwork/kooltou_logo.png" width="150px" height="150px" />
 
 Kooltuo:
 --------------------
