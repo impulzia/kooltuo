@@ -1,5 +1,5 @@
 <img src="http://github.com/impulzia/kooltuo/raw/master/artwork/kooltou_logo.png" width="300px" height="300px" />
-
+<img src="https://github.com/impulzia/kooltuo/raw/master/artwork/kooltou_logo.png width="300px" height="300px" />
 Kooltuo:
 --------------------
 
